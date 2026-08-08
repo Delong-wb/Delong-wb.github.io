@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="硫化锌晶体结构示意图">
+  <defs>
+    <radialGradient id="zn-core" cx="0.38" cy="0.35" r="0.85">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c9dcec"/>
+    </radialGradient>
+    <radialGradient id="zn-outer" cx="0.38" cy="0.35" r="0.85">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dbe7f2"/>
+    </radialGradient>
+  </defs>
+  <circle cx="320" cy="205" r="118" fill="#f2f6fa" opacity="0.7"/>
+  <g stroke="#b8c9dc" stroke-width="7" stroke-linecap="round">
+    <line x1="320" y1="205" x2="245" y2="128"/>
+    <line x1="320" y1="205" x2="398" y2="118"/>
+    <line x1="320" y1="205" x2="252" y2="292"/>
+    <line x1="320" y1="205" x2="392" y2="286"/>
+    <line x1="320" y1="205" x2="320" y2="76"/>
+  </g>
+  <circle cx="320" cy="76" r="26" fill="url(#zn-outer)" stroke="#0b3d66" stroke-width="3"/>
+  <circle cx="245" cy="128" r="34" fill="url(#zn-outer)" stroke="#0b3d66" stroke-width="3"/>
+  <circle cx="398" cy="118" r="34" fill="url(#zn-outer)" stroke="#0b3d66" stroke-width="3"/>
+  <circle cx="252" cy="292" r="34" fill="url(#zn-outer)" stroke="#0b3d66" stroke-width="3"/>
+  <circle cx="392" cy="286" r="34" fill="url(#zn-outer)" stroke="#0b3d66" stroke-width="3"/>
+  <circle cx="320" cy="205" r="46" fill="url(#zn-core)" stroke="#0b3d66" stroke-width="3.5"/>
+  <circle cx="150" cy="205" r="16" fill="#f4f8fb" stroke="#b8c9dc" stroke-width="2.5"/>
+  <circle cx="490" cy="205" r="16" fill="#f4f8fb" stroke="#b8c9dc" stroke-width="2.5"/>
+</svg>
