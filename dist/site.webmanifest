@@ -1,0 +1,11 @@
+{
+  "name": "东莞市德尔隆化工新材料有限公司",
+  "short_name": "德尔隆化工",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#073b66",
+  "icons": [{"src":"/assets/svg/logo.svg","sizes":"any","type":"image/svg+xml"}]
+}
+

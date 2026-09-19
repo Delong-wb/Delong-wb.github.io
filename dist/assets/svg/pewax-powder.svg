@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="聚乙烯蜡粉示意图">
+  <circle cx="320" cy="212" r="135" fill="#f2f6fa" opacity="0.8"/>
+  <path d="M178 300 Q320 168 462 300 Z" fill="#f8f6f1" stroke="#d8d2c2" stroke-width="3"/>
+  <g fill="#d8d2c2">
+    <circle cx="240" cy="262" r="5"/>
+    <circle cx="300" cy="238" r="4"/>
+    <circle cx="360" cy="250" r="5"/>
+    <circle cx="410" cy="276" r="4"/>
+    <circle cx="280" cy="286" r="4"/>
+    <circle cx="340" cy="284" r="5"/>
+    <circle cx="220" cy="284" r="4"/>
+    <circle cx="430" cy="284" r="4"/>
+    <circle cx="318" cy="212" r="3.5"/>
+  </g>
+  <polyline points="170,168 235,128 300,168 365,128 430,168 495,128"
+            fill="none" stroke="#1b6ca8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#1b6ca8">
+    <circle cx="170" cy="168" r="10"/>
+    <circle cx="235" cy="128" r="10"/>
+    <circle cx="300" cy="168" r="10"/>
+    <circle cx="365" cy="128" r="10"/>
+    <circle cx="430" cy="168" r="10"/>
+    <circle cx="495" cy="128" r="10"/>
+  </g>
+</svg>

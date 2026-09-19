@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="精制石蜡颗粒示意图">
+  <circle cx="320" cy="205" r="140" fill="#f3efe4" opacity="0.65"/>
+  <g>
+    <ellipse cx="250" cy="292" rx="42" ry="22" fill="#000000" opacity="0.07"/>
+    <ellipse cx="352" cy="300" rx="42" ry="22" fill="#000000" opacity="0.07"/>
+    <ellipse cx="310" cy="222" rx="42" ry="22" fill="#000000" opacity="0.06"/>
+    <ellipse cx="200" cy="232" rx="42" ry="22" fill="#000000" opacity="0.05"/>
+    <ellipse cx="430" cy="240" rx="42" ry="22" fill="#000000" opacity="0.06"/>
+  </g>
+  <g stroke="#d8c9a8" stroke-width="2.5">
+    <ellipse cx="200" cy="228" rx="42" ry="22" fill="#f7f2e6"/>
+    <ellipse cx="310" cy="218" rx="42" ry="22" fill="#f2ead7"/>
+    <ellipse cx="430" cy="236" rx="42" ry="22" fill="#f6f0e2"/>
+    <ellipse cx="250" cy="286" rx="42" ry="22" fill="#efe6d0"/>
+    <ellipse cx="352" cy="294" rx="42" ry="22" fill="#f4eddc"/>
+    <ellipse cx="150" cy="288" rx="42" ry="22" fill="#f6f0e2"/>
+    <ellipse cx="472" cy="292" rx="42" ry="22" fill="#efe6d0"/>
+  </g>
+  <ellipse cx="310" cy="170" rx="42" ry="22" fill="#faf6ec" stroke="#e2d5b6" stroke-width="2.5"/>
+</svg>
