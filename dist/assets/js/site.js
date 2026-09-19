@@ -1,57 +1,61 @@
-(function () {
-  const navToggle = document.querySelector('.nav-toggle');
-  const nav = document.querySelector('.nav');
-  if (navToggle && nav) {
-    navToggle.addEventListener('click', () => {
-      const open = nav.classList.toggle('open');
-      navToggle.setAttribute('aria-expanded', String(open));
+document.querySelectorAll('[data-year]').forEach((el)=>{el.textContent=new Date().getFullYear()});
+
+document.querySelectorAll('.nav-toggle').forEach((button)=>{
+  button.addEventListener('click',()=>{
+    const target=document.querySelector(button.dataset.target||'.main-nav');
+    if(target) target.classList.toggle('open');
+  });
+});
+
+const quoteForm=document.querySelector('#quote-form');
+if(quoteForm){
+  const result=document.querySelector('#quote-result');
+  const copyButton=document.querySelector('#copy-quote');
+  quoteForm.addEventListener('submit',(event)=>{
+    event.preventDefault();
+    const data=new FormData(quoteForm);
+    const message=`您好，德尔隆化工：\n我是${data.get('name')}。\n咨询产品：${data.get('product')}\n应用与需求：${data.get('detail')}\n请协助提供产品资料、供货与报价信息，谢谢。`;
+    result.textContent=message;
+    result.classList.add('show');
+    copyButton.hidden=false;
+  });
+  copyButton.addEventListener('click',async()=>{
+    try{await navigator.clipboard.writeText(result.textContent);copyButton.textContent='已复制，可粘贴到微信';}
+    catch(error){copyButton.textContent='请手动选中上方信息复制';}
+  });
+}
+
+const productSearch=document.querySelector('#product-search');
+if(productSearch){
+  const cards=[...document.querySelectorAll('[data-product-card]')];
+  const buttons=[...document.querySelectorAll('[data-filter]')];
+  const empty=document.querySelector('#empty-state');
+  const params=new URLSearchParams(location.search);
+  let currentCategory=params.get('category')||'all';
+
+  const filterProducts=()=>{
+    const query=productSearch.value.trim().toLowerCase();
+    let visible=0;
+    cards.forEach((card)=>{
+      const text=card.textContent.toLowerCase();
+      const category=card.dataset.category||'';
+      const show=(!query||text.includes(query))&&(currentCategory==='all'||category.includes(currentCategory));
+      card.classList.toggle('hidden',!show);
+      if(show) visible++;
     });
-    nav.querySelectorAll('a').forEach((link) => link.addEventListener('click', () => nav.classList.remove('open')));
-  }
-
-  document.querySelectorAll('[data-year]').forEach((el) => { el.textContent = new Date().getFullYear(); });
-
-  const copyText = async (text, trigger) => {
-    try {
-      await navigator.clipboard.writeText(text);
-      const old = trigger.textContent;
-      trigger.textContent = '已复制';
-      setTimeout(() => { trigger.textContent = old; }, 1600);
-    } catch (_) {
-      window.prompt('请复制以下内容：', text);
-    }
+    if(empty) empty.classList.toggle('show',visible===0);
   };
 
-  document.querySelectorAll('[data-copy-phone]').forEach((button) => {
-    button.addEventListener('click', () => copyText('13717373389', button));
-  });
-
-  const form = document.querySelector('#quote-form');
-  const result = document.querySelector('#quote-result');
-  if (form && result) {
-    const params = new URLSearchParams(location.search);
-    const requestedProduct = params.get('product');
-    if (requestedProduct && form.elements.product) form.elements.product.value = requestedProduct;
-
-    form.addEventListener('submit', (event) => {
-      event.preventDefault();
-      const data = new FormData(form);
-      const text = [
-        '您好，我想咨询德尔隆化工产品：',
-        `产品：${data.get('product') || '待确认'}`,
-        `用量：${data.get('quantity') || '待确认'}`,
-        `联系人：${data.get('name') || '未填写'}`,
-        `电话/微信：${data.get('contact') || '未填写'}`,
-        `应用或要求：${data.get('note') || '无'}`
-      ].join('\n');
-      result.textContent = text;
-      result.classList.add('show');
-      const copyButton = document.querySelector('#copy-quote');
-      if (copyButton) copyButton.hidden = false;
+  productSearch.value=params.get('q')||'';
+  buttons.forEach((button)=>{
+    if(button.dataset.filter===currentCategory) button.classList.add('active');
+    else button.classList.remove('active');
+    button.addEventListener('click',()=>{
+      currentCategory=button.dataset.filter;
+      buttons.forEach((item)=>item.classList.toggle('active',item===button));
+      filterProducts();
     });
-
-    const copyButton = document.querySelector('#copy-quote');
-    if (copyButton) copyButton.addEventListener('click', () => copyText(result.textContent, copyButton));
-  }
-})();
-
+  });
+  productSearch.addEventListener('input',filterProducts);
+  filterProducts();
+}

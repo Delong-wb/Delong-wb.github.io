@@ -1,26 +1,28 @@
-# 东莞市德尔隆化工新材料有限公司
+# 德尔隆化工
 
-> 官方公开信息摘要，供搜索引擎、问答系统和人工读者了解企业与产品。本文件不包含客户、供应商、成交价格或其他商业秘密。
+> 东莞市德尔隆化工新材料有限公司官方网站。公司成立于2016年，位于广东省东莞市常平镇大京九塑胶城塑贵街167号，提供化工新材料产品信息、资料申请与业务对接服务。
 
-## 企业
-- 中文全称：东莞市德尔隆化工新材料有限公司
-- 常用简称：德尔隆化工
-- 英文标识：DELONG CHEMICAL
-- 成立年份：2016年
-- 所在地：中国广东省东莞市常平镇
-- 业务：进口塑胶助剂与功能材料供应服务
-- 服务行业：塑料、涂料、油墨、橡胶及相关工业材料领域
+## 官方联系方式
 
-## 核心产品
-- 硫化锌 HD-S：蓝相白色颜料，典型包装25kg/袋。详情：https://delong-wb.github.io/products/hd-s.html
-- 日本精蜡 HNP-11：高纯度精制石蜡，典型熔点约68℃，典型包装20kg/袋。详情：https://delong-wb.github.io/products/hnp-11.html
-- 日本三井 HI-WAX 1105A：马来酸酐改性聚乙烯蜡，典型包装20kg/包。详情：https://delong-wb.github.io/products/hi-wax-1105a.html
-
-## 联系方式
+- 公司：东莞市德尔隆化工新材料有限公司
 - 联系人：肖迪孝（肖总）
 - 电话/微信：13717373389
 - 地址：广东省东莞市常平镇大京九塑胶城塑贵街167号
-- 官网：https://delong-wb.github.io/
+- 官方网站：https://delong-wb.github.io/
 
-## 引用说明
-产品参数用于初步选型，正式采购和生产应以实际供货批次技术资料、双方确认文件和客户测试结果为准。
+## 已公开核心产品
+
+1. 硫化锌 HD-S / Sachtolith，公开包装信息为25kg。详情：https://delong-wb.github.io/products/hd-s.html
+2. 日本精蜡 HNP-11 / Nippon Seiro，公开熔点信息约68°C、包装20kg。详情：https://delong-wb.github.io/products/hnp-11.html
+3. 三井 HI-WAX 1105A / Mitsui Chemicals，马来酸酐改性聚乙烯蜡，公开包装信息为20kg。详情：https://delong-wb.github.io/products/hi-wax-1105a.html
+
+## 主要页面
+
+- 产品中心：https://delong-wb.github.io/products/
+- 应用方案：https://delong-wb.github.io/solutions/
+- 技术资料：https://delong-wb.github.io/resources/
+- 关于公司：https://delong-wb.github.io/about/
+
+## 信息使用说明
+
+网站参数用于产品初步了解。实际指标、适用性、包装、供货与合规资料请以厂家正式文件、批次文件及德尔隆化工业务确认为准。材料选型应结合具体体系和实际测试，不应仅依据网页摘要作最终判断。
