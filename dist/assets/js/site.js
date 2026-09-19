@@ -23,6 +23,10 @@ if(quoteForm){
   if(query&&productField){
     const option=[...productField.options].find((item)=>item.textContent.includes(query)||item.value===query);
     if(option) productField.value=option.value;
+    else{
+      const custom=new Option(query,query,true,true);
+      productField.add(custom,0);
+    }
   }
   document.querySelectorAll('[data-quote-product]').forEach((button)=>button.addEventListener('click',()=>{
     const product=button.dataset.quoteProduct;
