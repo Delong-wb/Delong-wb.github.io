@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://delong-chemical.gentle-llama-5140.chatgpt.site/sitemap.xml
-
+Sitemap: https://delong-chemical.liuanhuayoumin28585.chatgpt.site/sitemap.xml
