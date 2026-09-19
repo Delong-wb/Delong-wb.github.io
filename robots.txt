@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://delong-wb.github.io/sitemap.xml
