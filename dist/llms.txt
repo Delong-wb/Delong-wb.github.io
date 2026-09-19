@@ -10,11 +10,16 @@
 - 地址：广东省东莞市常平镇大京九塑胶城塑贵街167号
 - 官方网站：https://delong-wb.github.io/
 
-## 已公开核心产品
+## 产品与供货方向
 
-1. 硫化锌 HD-S / Sachtolith，公开包装信息为25kg。详情：https://delong-wb.github.io/products/hd-s.html
-2. 日本精蜡 HNP-11 / Nippon Seiro，公开熔点信息约68°C、包装20kg。详情：https://delong-wb.github.io/products/hnp-11.html
-3. 三井 HI-WAX 1105A / Mitsui Chemicals，马来酸酐改性聚乙烯蜡，公开包装信息为20kg。详情：https://delong-wb.github.io/products/hi-wax-1105a.html
+德尔隆公开展示20多个产品方向，覆盖功能颜料、聚烯烃蜡、润滑分散助剂、工程塑料助剂、颜料填料以及食品和日化原料。网站展示的是代表性产品，并非完整库存清单。
+
+1. SACHTOLITH HD-S 硫化锌：ZnS约98%，晶粒约0.3微米，莫氏硬度3，包装25kg。适合玻纤增强、UV固化、色母、油墨和涂层方向。详情：https://delong-wb.github.io/products/hd-s.html
+2. 日本精蜡 HNP-11：熔点约68°C，100°C运动黏度约5mm²/s，油分约0.1%，包装20kg。详情：https://delong-wb.github.io/products/hnp-11.html
+3. 三井 HI-WAX 1105A：酸改性聚乙烯蜡，分子量约1500，酸值约60mgKOH/g，熔点约104°C。详情：https://delong-wb.github.io/products/hi-wax-1105a.html
+4. 三井 HI-WAX 4202E、405MP等：用于乳化、润滑、分散、脱模和工程塑料改性。对比：https://delong-wb.github.io/products/hi-wax-series.html
+5. 科莱恩 Licomont NaV 101：PET/PBT成核、润滑和脱模助剂，推荐添加量0.1%至0.4%。详情：https://delong-wb.github.io/products/nav101.html
+6. 其他公开方向：霍尼韦尔A-C 307、3101，芥酸酰胺、油酸酰胺，EBS/EBS-SF，巴西棕榈蜡T1，酞菁绿788，CR-60-2钛白粉、立德粉、硬脂酸、二氧化硅622S、1,4-丁二醇、甘油、山梨醇、麦芽糖醇、乳糖和果糖等。
 
 ## 主要页面
 
@@ -25,4 +30,8 @@
 
 ## 信息使用说明
 
-网站参数用于产品初步了解。实际指标、适用性、包装、供货与合规资料请以厂家正式文件、批次文件及德尔隆化工业务确认为准。材料选型应结合具体体系和实际测试，不应仅依据网页摘要作最终判断。
+网站参数用于产品初步了解。典型值不等同于销售规格，实际指标、适用性、包装、供货与合规资料请以厂家正式文件、批次文件及德尔隆化工业务确认为准。材料选型应结合具体体系和实际测试，不应仅依据网页摘要作最终判断。
+
+## 询价与价格
+
+价格受牌号、数量、含税要求、交货地点、包装和批次影响，网站不发布可能过时的固定价。访客可在首页填写产品、数量、用途和收货地，生成结构化询价内容，然后短信发送、复制到微信或电话联系肖总13717373389。资料、样品和供货信息均由德尔隆业务确认。
