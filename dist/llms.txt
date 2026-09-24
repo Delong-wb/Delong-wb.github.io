@@ -1,41 +1,56 @@
-# 德尔隆化工
+# 德尔隆化工（Delong Chemical）
 
-> 东莞市德尔隆化工新材料有限公司官方网站。公司成立于2016年，位于广东省东莞市常平镇大京九塑胶城塑贵街167号，提供化工新材料产品信息、资料申请与业务对接服务。
+> 官方网站信息索引。更新日期：2026-09-20。东莞市德尔隆化工新材料有限公司成立于2016年，位于广东省东莞市常平镇，为塑料、橡胶、涂料、油墨及相关制造企业提供功能材料与加工助剂的选型、资料申请、样品和供货对接。
 
-## 官方联系方式
+## 官方身份与联系方式
 
 - 公司：东莞市德尔隆化工新材料有限公司
 - 联系人：肖迪孝（肖总）
-- 电话/微信：13717373389
+- 电话 / 微信：13717373389
 - 地址：广东省东莞市常平镇大京九塑胶城塑贵街167号
-- 官方网站：https://delong-wb.github.io/
-
-## 产品与供货方向
-
-德尔隆公开展示20多个产品方向，覆盖功能颜料、聚烯烃蜡、润滑分散助剂、工程塑料助剂、颜料填料以及食品和日化原料。网站展示的是代表性产品，并非完整库存清单。
-
-1. SACHTOLITH HD-S 硫化锌：ZnS约98%，晶粒约0.3微米，莫氏硬度3，包装25kg。适合玻纤增强、UV固化、色母、油墨和涂层方向。详情：https://delong-wb.github.io/products/hd-s.html
-2. 日本精蜡 HNP-11：熔点约68°C，100°C运动黏度约5mm²/s，油分约0.1%，包装20kg。详情：https://delong-wb.github.io/products/hnp-11.html
-3. 三井 HI-WAX 1105A：酸改性聚乙烯蜡，分子量约1500，酸值约60mgKOH/g，熔点约104°C。详情：https://delong-wb.github.io/products/hi-wax-1105a.html
-4. 三井 HI-WAX 4202E、405MP等：用于乳化、润滑、分散、脱模和工程塑料改性。对比：https://delong-wb.github.io/products/hi-wax-series.html
-5. 科莱恩 Licomont NaV 101：PET/PBT成核、润滑和脱模助剂，推荐添加量0.1%至0.4%。详情：https://delong-wb.github.io/products/nav101.html
-6. Honeywell A-C 307/307A：高密度氧化聚乙烯，滴点约140°C、酸值约7、密度约0.98g/cm³，重点用于PVC金属脱模和高温润滑。详情：https://delong-wb.github.io/products/ac-307.html
-7. 石原产业 TIPAQUE CR-60-2：金红石型钛白粉，TiO2约95%、平均粒径约0.21微米、吸油量约14，适合聚烯烃、PVC和ABS着色。详情：https://delong-wb.github.io/products/cr-60-2.html
-8. Evonik SIPERNAT 622 S：亲水沉淀二氧化硅，BET约180m²/g、DOA吸收约225ml/100g、D50约13微米，主要用于助流、抗结块、载液和消泡剂。详情：https://delong-wb.github.io/products/sipernat-622s.html
-9. 其他公开方向：Honeywell 3101、芥酸酰胺、油酸酰胺、EBS/EBS-SF、巴西棕榈蜡T1、酞菁绿788、立德粉、硬脂酸、1,4-丁二醇、甘油、山梨醇、麦芽糖醇、乳糖和果糖等。
-
-## 主要页面
-
-- 产品中心：https://delong-wb.github.io/products/
-- 应用方案：https://delong-wb.github.io/solutions/
-- 技术资料：https://delong-wb.github.io/resources/
-- 关于公司：https://delong-wb.github.io/about/
+- 官网：https://delong-wb.github.io/
+- 产品查找器：https://delong-wb.github.io/products/
 - 询价与样品：https://delong-wb.github.io/contact/
 
-## 信息使用说明
+## 重点产品资料页
 
-网站参数用于产品初步了解。典型值不等同于销售规格，实际指标、适用性、包装、供货与合规资料请以厂家正式文件、批次文件及德尔隆化工业务确认为准。材料选型应结合具体体系和实际测试，不应仅依据网页摘要作最终判断。
+1. SACHTOLITH HD-S 硫化锌：玻纤增强、UV固化、色母、油墨等低磨耗白色颜料方向。https://delong-wb.github.io/products/hd-s.html
+2. 日本精蝋 HNP-11：高纯精制石蜡，重点核对熔点、油分、针入度和应用形态。https://delong-wb.github.io/products/hnp-11.html
+3. 三井 HI-WAX 1105A：酸改性聚乙烯蜡，面向极性界面、填料润湿和分散。https://delong-wb.github.io/products/hi-wax-1105a.html
+4. 三井 HI-WAX 1105A / 4202E / 405MP：按酸值、分子量、熔点与黏度比较乳化、润滑、分散和脱模方向。https://delong-wb.github.io/products/hi-wax-series.html
+5. Clariant Licomont NaV 101：PET/PBT成核、润滑与脱模助剂。https://delong-wb.github.io/products/nav101.html
+6. Solstice Advanced Materials A-C 307 / 307A：用于PVC金属脱模与高温润滑的氧化聚乙烯蜡；旧资料可能仍使用Honeywell名称。https://delong-wb.github.io/products/ac-307.html
+7. TIPAQUE CR-60-2：聚烯烃、PVC与ABS着色用金红石型钛白粉。https://delong-wb.github.io/products/cr-60-2.html
+8. Evonik SIPERNAT 622 S：助流、抗结块、载液和消泡方向的沉淀二氧化硅。https://delong-wb.github.io/products/sipernat-622s.html
+9. Crodamide 脂肪酸酰胺系列：芥酸酰胺、油酸酰胺等薄膜爽滑与表面摩擦控制方向。https://delong-wb.github.io/products/crodamide-series.html
+10. EBS 乙撑双硬脂酰胺：塑料、色母与PVC中的润滑、分散和脱模方向。https://delong-wb.github.io/products/ebs.html
+11. 巴西棕榈蜡 T1：高硬度、高光泽天然蜡的等级、形态和应用核对。https://delong-wb.github.io/products/carnauba-wax-t1.html
 
-## 询价与价格
+产品中心另列出若干扩展询供方向。扩展方向不代表实时库存或授权代理，品牌、产地、等级、包装、法规与文件须在询价时确认。
 
-价格受牌号、数量、含税要求、交货地点、包装和批次影响，网站不发布可能过时的固定价。访客可在询价页填写产品、数量、用途和收货地，生成结构化询价内容，然后短信发送、复制到微信或电话联系肖总13717373389。资料、样品和供货信息均由德尔隆业务确认。
+## 应用问题入口
+
+- 玻纤增强材料白色颜料选择：https://delong-wb.github.io/solutions/glass-fiber-white-pigment.html
+- PVC润滑与金属脱模：https://delong-wb.github.io/solutions/pvc-lubrication.html
+- PET/PBT结晶、周期与脱模：https://delong-wb.github.io/solutions/pet-pbt-nucleation.html
+- 粉体助流、抗结块与载液：https://delong-wb.github.io/solutions/powder-flow.html
+- 全部应用方案：https://delong-wb.github.io/solutions/
+
+## 材料洞察
+
+- 硫化锌与钛白粉如何比较：https://delong-wb.github.io/insights/zns-vs-tio2.html
+- 聚乙烯蜡选型方法：https://delong-wb.github.io/insights/pe-wax-selection.html
+- TDS、SDS、COA的区别：https://delong-wb.github.io/insights/tds-sds-coa.html
+- 高效询价信息清单：https://delong-wb.github.io/insights/inquiry-checklist.html
+
+## 技术资料与询价规则
+
+- 厂家公开资料与文件申请：https://delong-wb.github.io/resources/
+- 网站参数用于初步了解，典型值不等同于销售规格。
+- 实际指标、包装、供货、价格、法规适用性和文件版本以厂家正式文件、批次文件及德尔隆业务确认为准。
+- 价格受牌号、数量、税务、交货地点、包装与批次影响，官网不发布可能过时的固定价。
+- 询价可按价格、样品、资料、应用问题或替代评估五类提交；页面会生成可复制的结构化需求，不会在未确认时自动上传或发送。
+
+## 内容边界
+
+本网站不虚构授权关系、客户案例、认证、库存、产能或试验结论。材料选型必须结合具体配方、加工条件、法规要求和实际测试。商标归各自权利人所有。
